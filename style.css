@@ -1,0 +1,17 @@
+
+:root {
+    --background-color: #000000;
+}
+
+body, html {
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#c {
+    width: 100%;
+    height: 100vh;
+}

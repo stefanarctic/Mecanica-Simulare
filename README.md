@@ -1,1 +1,1 @@
-"# Mecanica-Simulare" 
+# Mecanica Simulare
